@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Chetan Oli",
+    "occupation": "Software Engineer @SquareYards",
+    "description": "Full Stack Developer with experience in ReactJS with Redux and NodeJS",
+    "image": "Chetan.jpg",
+    "bio": "My name is Chetan, I'm a Full Stack Developer with experience in ReactJS with Redux and NodeJS. Currently, I'm working at Square Yards",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "chetanoli2012@gmail.com",
+    "phone": "+91 9870157198",
+    "address": {
+      "street": "Sector 57",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zip": "122002"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1aU27Zd0sm3PN7FwZd4dRF_a0_xDgdI8b/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/chetanoli2012/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chetanoli2012/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chetanoli2012",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": " I'm a Full Stack Developer with experience in ReactJS with Redux and NodeJS.",
+    "education": [
+      {
+        "school": "Chitkara University",
+        "degree": "Bachelor in Engineering, Computer Science and Engineering",
+        "graduated": "June 2019",
+        "description": "Graduated with 9.56 CGPA Out of 10"
+      }
+    ],
+    "work": [
+      {
+        "company": "Square Yards",
+        "title": "Software Engineer",
+        "years": "July 2019 - Present",
+        "description": "I am working as a Full Stack Developer here."
+      },
+      {
+        "company": "NovoInvent Software",
+        "title": "Software Engineering Intern",
+        "years": "May 2018 - June 2019",
+        "description": "I worked as an intern."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Azuro-PMS",
+        "category": "This project is done as a property management system which targets to add the various interactions at several stages to property leasing.",
+        "image": "azuro-pms.png",
+        "url": "https://pms.azuro.in/"
+      },
+      {
+        "title": "Squareyards Dotcom",
+        "category": "Square Yards is a technology-enabled real estate brokerage and India’s largest player for primary real estate.",
+        "image": "square-yards-dotcom.png",
+        "url": "https://www.squareyards.com/"
+      },
+      {
+        "title": "Cosumer app pwa",
+        "category": "This app delivers the control of service experience during property search & ownership journey for those who are interested in the property transactions.",
+        "image": "consumer-app-pwa.png",
+        "url": "https://m.squareyards.com/"
+      },
+      {
+        "title": "Edge SAAS",
+        "category": "This is a software as a service (SaaS) offering, which will elevate the sales and distribution functions of real estate players in India and overseas.",
+        "image": "edge-saas.png",
+        "url": "http://edge.squareyards.com/"
+      },
+      {
+        "title": "Hospital Information System",
+        "category": "OpenEMR was adapted to meet the EHR and HIS requirements of various hospitals",
+        "image": "hospital-information-system.png",
+        "url": "https://dhingra.tghehr.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Chetan Oli is a quick learner with an excillent logical and programming skills. He picks up things or technology very quickly. I have worked with him for a year and it was really a good experience.",
+        "user": "Saurabh Thakur, System Engineer at Iris Software Inc."
+      },
+      {
+        "text": "Chetan is one of the hardest working professionals that I have ever seen. He has a learning attitude towards everything, coding, sports(swimming, ice skating, carrom are the sports which I saw him playing) or anything with full interest and with a smile. We both worked together projects including Spring MVC Framework, responsiveness of websites and crypto currency websites in which he played important role in project. He is a guy with positive mindset, loyal, enthusiastic and is really helpful towards other people. I had a great time working with Chetan and I hope we will work again soon.",
+        "user": "Ashish Garg, Full Stack Developer at Newgen Software."
+      },
+      {
+        "text": "It was fantastic to work together with Chetan, who is an exceptional Software Engineer. He has good command in Java (Spring Framework), .netCore, React.js and multiple Database technologies (MySql, PostgresSQL to name a few). Loyal, insightful and independent, he is always capable of adapting to new working environments and learning new technologies. He has very positive attitude towards work. He always meets the deadlines. I wish him best of all lucks for his future endeavours and strongly recommend him for his field.",
+        "user": "Farookh Mansuri, Software Engineer at Astix Solutions."
+      }
+    ]
+  }
+}
