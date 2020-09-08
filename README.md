@@ -9,12 +9,12 @@ This is a ReactJS based personal resume website template that has been updadted 
 
 ## Make it Your Own!
 #### PREREQUISITES:
-- Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+- Sign up for a Netlify account <a href='https://www.netlify.com ' target = 'new'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/' target = 'new'>HERE</a>
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
-<a href='https://github.com/chetanoli2012/react-portfolio-chetan'>HERE</a>
+<a href='https://github.com/chetanoli2012/react-portfolio-chetan' target = 'new'>HERE</a>
 - Open the folder in VS Code
 - Edit <code>public/resumeData.json</code> and add your personal details and projects
 - Open terminal in VS Code
@@ -33,10 +33,10 @@ Here is the link to download zip 👉
 
 
 HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
+<a href="https://www.styleshout.com/free-templates/ceevee/" target = 'new'>Ceevee Template by Styleshout</a>
 
 Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
+<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target = 'new'>Casey Horner</a>
 
 Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target = 'new'>Samuel Zeller</a>
