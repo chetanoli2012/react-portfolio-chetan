@@ -28,7 +28,7 @@ Here is the link to download zip 👉
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
-#### And Clever Programmers Familty <a href='https://github.com/CleverProgrammers/react-portfolio'>Clever Programmer repo Repo</a>
+#### And Clever Programmers Familty <a href='https://github.com/CleverProgrammers/react-portfolio'>Clever Programmers Repo</a>
 
 
 
