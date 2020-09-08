@@ -5,7 +5,7 @@
 <a href="https://compassionate-leakey-e9b16b.netlify.app/" target = 'new'>LIVE DEMO</a>
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
+This is a ReactJS based personal resume website template that has been updadted as a part of The 6 Figure JavaScript ReactJS Challenge by Clever Programmers
 
 ## Make it Your Own!
 #### PREREQUISITES:
@@ -14,7 +14,7 @@ This is a ReactJS based personal resume website template for participants of The
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
+<a href='https://github.com/chetanoli2012/react-portfolio-chetan'>HERE</a>
 - Open the folder in VS Code
 - Edit <code>public/resumeData.json</code> and add your personal details and projects
 - Open terminal in VS Code
@@ -27,6 +27,8 @@ Here is the link to download zip 👉
 ## Credits
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
+
+#### And Clever Programmers Familty <a href='https://github.com/CleverProgrammers/react-portfolio'>Clever Programmer repo Repo</a>
 
 
 
