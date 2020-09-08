@@ -2,7 +2,7 @@
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-<a href="https://optimistic-galileo-251da6.netlify.app/" target = 'new'>LIVE DEMO</a>
+<a href="https://iamchetanoli.netlify.app/" target = 'new'>LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template that has been updadted as a part of The 6 Figure JavaScript ReactJS Challenge by Clever Programmers
