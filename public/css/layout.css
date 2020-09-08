@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background.jpeg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -236,7 +236,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #dcd8d8eb;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -264,7 +264,7 @@ ul#nav li.current a { color: #F06000; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #927b7b;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
@@ -298,7 +298,7 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
+  	background: #948b8b;
   	height: 42px;
   	border-radius: 3px;
 }
@@ -417,7 +417,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #d6d6d6;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -703,7 +703,7 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
+   font-size: 22px;
    line-height: 48px;
    color: #fff
 }
@@ -714,9 +714,14 @@ call-to-action .button {
    line-height: 18px;
    color: #fff;
 }
-#testimonials blockquote cite:before { content: "\2014 \0020"; }
+
+#testimonials blockquote > .testimonals-anchor{
+   margin-left: 10px;
+}
+
+#testimonials blockquote cite:before { content: "\2014 \0020"}
 #testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite a:visited { color: #0077b5; border: none;  margin-left: 10px; font-size: medium;}
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
