@@ -35,7 +35,7 @@ const Contact = ({ data }) => {
          </div>
 
          <div className="row">
-            <div className="eight columns">
+            <div className="twelve columns">
 
                <form id="contactForm" name="contactForm">
 					<fieldset>
@@ -72,21 +72,21 @@ const Contact = ({ data }) => {
            <div id="message-warning"> Error boy</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
-				   </div>
-           </div>
+               </div>
+            </div>
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
+               {/* <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
-					   <p className="address">
-						   {data?.name}<br />
-						   {data?.address.street} <br />
-						   {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
-						   <span>{data?.phone}</span>
-					   </p>
-				   </div>
+                  <h4>Address and Phone</h4>
+                  <p className="address">
+                     {data?.name}<br />
+                     {data?.address.street} <br />
+                     {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
+                     <span>{data?.phone}</span>
+                  </p>
+               </div> */}
 
                <div className="widget widget_tweets">
 
